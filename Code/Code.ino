@@ -1,3 +1,8 @@
+/*
+	Engineer 	: Iroshana Herath
+	Date 		: Nov. 2017
+	Email 		: iroshana.elance@gmail.com
+*/
 //#include <LiquidCrystal.h>
 
 #define threshold 70
